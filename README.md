@@ -4,3 +4,5 @@ GoodSecurity was tasked with performing an internal penetration test on GoodCorp
 
 When performing the internal penetration test, there were several alarming vulnerabilities that were
 identified on Hans’ desktop. When performing the attacks, GoodSecurity was able to gain access to his machine and find the secret recipe file by exploiting two programs that had major vulnerabilities.
+
+[View Full Report](Penetration Test Report.pdf)
